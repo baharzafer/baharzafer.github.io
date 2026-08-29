@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/about.html</loc>
-    <lastmod>2026-08-29T22:30:11.397Z</lastmod>
-  </url>
-  <url>
-    <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/research.html</loc>
-    <lastmod>2026-08-29T22:30:10.417Z</lastmod>
+    <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/index.html</loc>
+    <lastmod>2026-08-29T22:35:20.161Z</lastmod>
   </url>
   <url>
     <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/teaching.html</loc>
-    <lastmod>2026-08-29T22:30:10.178Z</lastmod>
+    <lastmod>2026-08-29T22:35:19.615Z</lastmod>
   </url>
   <url>
-    <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/index.html</loc>
-    <lastmod>2026-08-29T22:30:10.723Z</lastmod>
+    <loc>https://QuartoWebsite@github.com/baharzafer/baharzafer.github.io.git/research.html</loc>
+    <lastmod>2026-08-29T22:35:19.856Z</lastmod>
   </url>
 </urlset>
